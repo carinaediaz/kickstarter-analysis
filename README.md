@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 ## Overview of the Project
-##### Analyizing kickstarter data to help Louise launch a successful play fundraising campaign
+##### Analyizing kickstarter data to help Louise launch a successful play fundraising campaign.
 ## Purpose
 ##### Louise began a fundraising campagin for her play, Fever, and came close to successfully funding the goal, but came short. She would like to know how other campaigns faired compared to hers. We utilized Kickstarter data to analyze the factors that made previous plays successful vs failed vs canceled. We preformed several different searches to find the relevant data to theater, specificallly play productions. With these narrowed down datasets, we analyzed the different campaign goals, pledges, outcomes, start and end dates. This, along with statstical calculations such as measures of central tendancy and spread, allowed us to provide Louise with some background as to what campaign funding goals and what times of year are most successful for a campaign launch. 
 ## Analysis of Outcomes and Challenges
